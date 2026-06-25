@@ -11,9 +11,7 @@ export default function LogoutPage() {
     <main className="flex min-h-screen items-center justify-center bg-zinc-50 px-6 py-20 text-zinc-900">
       <div className="w-full max-w-md rounded-2xl border border-zinc-200 bg-white p-8 shadow-sm">
         <p className="text-sm font-semibold uppercase tracking-[0.25em] text-zinc-500">
-          Sesión
-          <>sdhfjkhskjd</>
-        </p>
+          Sesión pdpdpdp</p>
         <h1 className="mt-3 text-3xl font-semibold">Has cerrado sesión</h1>
         <p className="mt-4 text-zinc-600">
           Tu sesión se ha cerrado correctamente. Puedes volver a entrar cuando quieras.
